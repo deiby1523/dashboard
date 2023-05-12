@@ -1,70 +1,82 @@
-# Getting Started with Create React App
+# React Syncfusion and Tailwind Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este es un proyecto de panel administrativo o dashboard creado con React, Syncfusion y Tailwind.
 
-## Available Scripts
+## Descripción del proyecto
 
-In the project directory, you can run:
+El objetivo de este proyecto es crear un panel administrativo o dashboard utilizando tecnologías modernas de desarrollo web, como React, Syncfusion y Tailwind. El panel permitirá al usuario visualizar y gestionar distintos aspectos de un sistema o aplicación, como estadísticas, información de usuarios, registros, etc.
 
-### `npm start`
+## Tecnologías utilizadas
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Este proyecto utiliza las siguientes tecnologías:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React: una biblioteca de JavaScript para construir interfaces de usuario.
+- Syncfusion: un conjunto de componentes de interfaz de usuario de JavaScript para React que incluye gráficos, tablas, calendarios, formularios y otros elementos.
+- Tailwind: un framework de diseño de CSS que facilita la creación de diseños flexibles y personalizables.
 
-### `npm test`
+## Instalación
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Para instalar y ejecutar el proyecto en tu máquina local, sigue estos pasos:
 
-### `npm run build`
+1. Clona el repositorio en tu máquina local:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+git clone https://github.com/tu-usuario/react-syncfusion-tailwind-dashboard.git
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Entra en el directorio del proyecto:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+cd react-syncfusion-tailwind-dashboard
+```
 
-### `npm run eject`
+3. Instala las dependencias del proyecto:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
+npm install
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4. Inicia la aplicación:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
+npm start
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+La aplicación debería estar disponible en http://localhost:3000/.
 
-## Learn More
+## Contribución
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Si quieres contribuir al proyecto, por favor sigue estos pasos:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Crea un fork del repositorio.
 
-### Code Splitting
+2. Clona tu fork en tu máquina local:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```
+git clone https://github.com/tu-usuario/react-syncfusion-tailwind-dashboard.git
+```
 
-### Analyzing the Bundle Size
+3. Crea una rama con el nombre de tu contribución:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```
+git checkout -b mi-contribucion
+```
 
-### Making a Progressive Web App
+4. Haz tus cambios y realiza un commit con un mensaje descriptivo:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```
+git add .
+git commit -m "Agregué una nueva funcionalidad"
+```
 
-### Advanced Configuration
+5. Envía tus cambios a tu fork en GitHub:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```
+git push origin mi-contribucion
+```
 
-### Deployment
+6. Crea un pull request desde tu fork hacia el repositorio original.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Licencia
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más información.
