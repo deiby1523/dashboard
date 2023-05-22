@@ -43,7 +43,7 @@ const Ecommerce = () => {
         </div>
       </div>
       <div className='flex gap-10 flex-wrap justify-center'>
-        <div  style={ { boxShadow: '#0000001c 0px 20px 20px 20px' } } className='bg-white dark:text-gray-200 dark:bg-secondary-dark-bg m-3 p-4 rounded-2xl md:w-780'>
+        <div  style={ { boxShadow: '#0000001c 0px 20px 20px 20px' } } className='bg-white dark:text-gray-200 dark:bg-secondary-dark-bg m-3 p-4 rounded-2xl md:w-780 mb-40'>
           <div className='flex justify-between'>
             <p className='font-semibold'>Revenue Updates</p>
             <div className='flex item-center gap-4'>
