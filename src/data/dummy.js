@@ -54,8 +54,7 @@ export const kanbanGrid = [
 
   { headerText: 'Testing',
     keyField: 'Testing',
-    allowToggle: true,
-    isExpanded: false },
+    allowToggle: true, },
 
   { headerText: 'Done',
     keyField: 'Close',
