@@ -83,7 +83,7 @@ const Ecommerce = () => {
 
             </div>
             <div>
-              <Stacked width='320px' height='360px'/>
+              <Stacked className="bg-main-dark-bg" width='320px' height='360px'/>
             </div>
           </div>
 
