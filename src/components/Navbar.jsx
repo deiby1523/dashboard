@@ -20,7 +20,7 @@ const NavButton = ({ title,customFunc, icon, color, dotColor}) => (
   
 )
 
-// Navbar Component
+// Navbar
 
 const Navbar = () => {
   const { activeMenu, setActiveMenu, handleClick, isClicked, setIsClicked, screenSize, setScreenSize, currentColor } = useStateContext();
