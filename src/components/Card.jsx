@@ -2,6 +2,7 @@ import React from 'react';
 
 const Card = ({ title, image, description }) => {
   return (
+    // card component
     <div className="card">
       <img src={image} alt={title} className="card-image" />
       <div className="card-content">
